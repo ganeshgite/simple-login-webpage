@@ -1,0 +1,181 @@
+body{
+    background-image: url("tree.jpg");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 657px;
+    width: 100%;
+    float: left;
+    background-color: blue;
+    background-image: url("tree.jpg");
+    background-size: 100% 100%;
+}
+.menu{
+    height: 100px;
+    width: 100%;
+    float: left;
+    background-color: hsla(245,08%,30%,0.1);
+}
+.menu_logo{
+    height: 100px;
+    width: 20%;
+    float: left;
+    text-align-last: center;
+}
+.menu_logo h1{
+    color: orange;
+    font-size: 70px;
+    font-weight: bold;
+    margin:10px;
+}
+.menu_option{
+    height: 100%;
+    width: 50%;
+    float: left;
+    /* background-color: red; */
+}
+.menu_option ul li{
+    display: inline-block;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 25px;
+    margin-top: 27px;
+}
+.menu_search{
+    height: 100%;
+    width: 30%;
+    float: left;
+   
+}
+.menu_search input{
+    height: 35px;
+    margin-top: 20px;
+    border: 3px solid orange;
+    margin-left: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+.menu_search button{
+    height: 38px;
+    border: none;
+   width: 120px;
+   color: white;
+   background-color: orange;
+   font-size: 20px;
+   margin-left: -5px;
+}
+
+.area_1{
+    height:557px ;
+    width: 50%;
+    float: left;
+    background-color: rd;
+}
+.area_1_padding{
+    margin: 60px ;
+}
+.area_1 h1{
+    color: white;
+    font-size: 60px;
+    
+}
+.area_1 span{
+    color: orange;
+    text-shadow: 3px 3px black;
+}
+.area_1 p{
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    
+}
+.area_1 button{
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    text-align-last: center;
+    border: none;
+    height: 40px;
+    width:100px ;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.area_2{
+    height:557px ;
+    width: 50%;
+    float: left;
+    
+}
+.area_2_padding{
+    padding: 25px;
+}
+.area_2_box{
+    height: 490px;
+    width: 55%;
+    float: left;
+    background-color: black;
+    margin-left:20%;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 0px white;
+    border-radius: 10px;
+}
+
+.area_2_box h1{
+    color: orange;
+    background-color: white;
+    text-align-last: center;
+    padding: 10px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+.area_2_box input{
+    height: 40px;
+    width: 100%;
+    background:transparent;
+    border: none;
+    border-bottom: 2px solid orange;
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+}
+.area_2_box button{
+    height: 50px;
+    width: 100%;
+    background-color: orange;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    border:none;
+    font-size: 22px;
+    margin-top: 10px;
+}
+.area_2_box h2{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.area_2_box a{
+color: orange;
+} 
+.area_2_box h3{
+    color: orange;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2px;
+}
+.img{
+    
+}
+.img li{
+    height: 30px;
+    width: 50px;
+    float: left;
+    padding-bottom: 10px;
+    margin-top: 0px;
+    margin-left: 25px;
+    padding-top: 0px;
+
+}
